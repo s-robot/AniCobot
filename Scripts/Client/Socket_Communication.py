@@ -24,7 +24,7 @@ class WsClientManager():
         print("Finish.")
 
 if __name__ == "__main__":
-    ws_manager = WsClientManager(uri="ws://133.27.188.4:9998")
+    ws_manager = WsClientManager(uri="ws://<ip address>")
 
     print("Start")
     # ws_manager.send(json.dumps({"JawOpen": 0.0,}))
