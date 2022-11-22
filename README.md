@@ -1,11 +1,14 @@
 # AniCobot
 
-![](img/robot.JPG)
-## 概要
-オープンソースの瞬きや眼球運動，口の開閉が可能なオープンソースの頭部のロボットです．
+[日本語REAMDME(Japanese README)](README.ja.md)
 
-WebSocketを用いて，JSONを送ることで簡単に動かすことが出来ます．
+![](img/robot.JPG)
+
+This project is an open-source 3D printable head robot that can blink, and move its eyes and mouth.
+
+You can manipulate this robot easily by sending JSON via using WebSocket
 ![](img/system_architecture.png)
 
-## 組み立て方
-詳細記述中
+
+## Instruction
+Details will be announced as soon as possible
