@@ -1,0 +1,5 @@
+configparser
+future
+pyserial
+PyYAML
+websockets
